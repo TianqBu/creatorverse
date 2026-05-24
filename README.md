@@ -1,10 +1,10 @@
 # Web Development Project — Creatorverse
 
-Submitted by: **[Your Name Here]**
+Submitted by: **Tianqi Bu**
 
 **Creatorverse** is a full-stack React + Supabase app for cataloguing your favorite content creators. Browse a curated list, view each creator's detail page, and add, edit, or delete entries through a clean card-based interface styled with PicoCSS.
 
-Time spent: **__ hours** spent in total
+Time spent: **6 hours** spent in total
 
 ## Required Features
 
@@ -47,7 +47,7 @@ Three challenges encountered while building this app:
 ## Setup
 
 ```bash
-git clone https://github.com/[your-username]/creatorverse.git
+git clone https://github.com/TianqBu/creatorverse.git
 cd creatorverse
 npm install
 
@@ -73,7 +73,7 @@ For the full step-by-step submission walkthrough, see [`docs/USER_CHECKLIST.md`]
 ## License
 
 ```
-Copyright [YEAR] [YOUR NAME]
+Copyright 2026 Tianqi Bu
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
