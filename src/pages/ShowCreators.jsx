@@ -15,7 +15,7 @@ function ShowCreators() {
       const { data, error: fetchError } = await supabase
         .from('creators')
         .select('*')
-        .order('created_at', { ascending: true })
+        .order('id', { ascending: true })
       if (cancelled) return
       if (fetchError) setError(fetchError.message)
       else setCreators(data ?? [])
