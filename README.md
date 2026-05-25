@@ -32,9 +32,9 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](walkthrough.gif)
+📹 **[Watch the full walkthrough on Loom →](https://www.loom.com/share/852b36bf69964290ac04d8f04462b711)**
 
-GIF created with [Loom](https://www.loom.com/) and converted with [ezgif.com](https://ezgif.com/video-to-gif). See `docs/VIDEO_SCRIPT.md` for the full scene-by-scene script.
+The walkthrough demonstrates all 9 required features end-to-end in under 2 minutes: list view of all 6 seeded creators, detail page navigation via unique per-creator URL, edit with prefilled form, add new creator with immediate list refresh, and delete with confirmation. See [`docs/VIDEO_SCRIPT.md`](docs/VIDEO_SCRIPT.md) for the scene-by-scene script.
 
 ## Notes
 
